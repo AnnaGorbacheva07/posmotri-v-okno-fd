@@ -226,7 +226,7 @@ input[type="checkbox"]:checked+span {
 }
 
 
-.button:focus{
+.button:focus {
   outline: none;
 }
 
@@ -252,7 +252,7 @@ input[type="checkbox"]:checked+span {
 }
 
 
-.title { 
+.title {
   font-family: Oswald, sans-serif;
   font-size: 75px;
   line-height: 94%;
@@ -285,7 +285,7 @@ input[type="checkbox"]:checked+span {
 
 .content__list-item {
   padding-left:3px;
-  padding-left:3px;
+  padding-right:3px;
 }
 
 .content__card-link {
