@@ -174,7 +174,7 @@ ol {
   outline-offset: 1px;
 }
 
-.search-form__label:has(.search-form__checkbox):hover {
+.search-form__label:hover:has(.search-form__checkbox) {
   text-decoration: underline;
   text-decoration-skip-ink: none;
   text-underline-offset: 4px;
